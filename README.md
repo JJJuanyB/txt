@@ -11,7 +11,7 @@ Bulb On/Off [project](url)
   <h2>
     click on light Bulb to turn on
   
-<img id="myImage" onclick="changeImage()" src="https://www.w3schools.com/js/pic_bulboff.gif" width="100" height="180">
+<img>
      
 
              
