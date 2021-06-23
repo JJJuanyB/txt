@@ -1,7 +1,7 @@
-# txt
-Our Immigration Outreach Network, or ION, aims to help immigrants find shelter and basic necessities. With this we hope to show how productive anyone can be if given the resources.
+# TXTintro
+First ever TXT coding Challenge. Goal is to allow anyone to turn the bulb off and on. 
 
-Visual Studios, Material Theme
+JS Bin to practice as a base, Hustle N Code to submit
 
 Bulb On/Off [project](url)
 <HTML>
