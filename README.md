@@ -11,22 +11,4 @@ Bulb On/Off [project](url)
   <h2>
     click on light Bulb to turn on
   
-<img>
-     
 
-             
-
-
-</body>
-</html>
-</HTML>
-<CSS>
-   cbody{
-  background: black;
-  color:white
-} 
-</CSS>
-<JavaScript>
-    function changeImage() {
-    
-</JavaScript>
